@@ -1,0 +1,30 @@
+body {
+    background-color:#1a1818;
+}
+p {
+    color:green;
+    font-weight:bold;
+    margin:40px;
+}
+.back {
+    color:#ee1818;
+}
+.email {
+    width:100%;
+    height:40px;
+    background-color:#d3d3d3;
+    border:none;
+    border-radius:5px;
+    outline:none;
+    padding-inline:.5rem;
+}
+.sub {
+    width:106%;
+    height:44px;
+    background-color:rgb(40, 241, 241);
+    border:none;
+    border-radius:5px;
+    color:rgb(204, 56, 56);
+    font-weight:bold;
+    font-size:20px;
+}
